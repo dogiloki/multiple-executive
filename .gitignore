@@ -1,0 +1,15 @@
+db
+server
+files
+
+nbproject/private
+build
+nbbuild
+dist
+target
+nbdist
+nbactions.xml
+nb-configuration.xml
+
+# Class Files #
+*.class
